@@ -5,3 +5,4 @@
 # To adjust the weight of the contour length in the algorithm, change the value assigned to "mu" in line 3 of Final2.
 # To adjust the number of iterations in the algorithm, change the value assigned to "iterations" in line 4 of Final2.
 # The program will also create a video titled "segmentation.avi" of the contour evolution. 
+# The command "mesh(FinalPhiFunction)" can be used to visualize the final function phi. 
